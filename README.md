@@ -2,7 +2,7 @@
 
 Here's the list of my projects categorized under my "learning sources/types":
 * Web Development
-..* 001000 - Personal
+...* 001000 - Personal
 ..* 002000 - Frontend Mentor
 ..* 003000 - London App Brewery
 ..* 004000 - freeCodeCamp
