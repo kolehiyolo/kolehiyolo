@@ -5,6 +5,8 @@ Here's the list of my projects categorized under **"learning sources/types"**:
 	* 001000 - Personal
 	* 002000 - Frontend Mentor
 	* 003000 - London App Brewery
+		* Authentication & Security:
+			* [003001 - Secret+](https://github.com/kolehiyolo/003001-secret- "Secret+")
 	* 004000 - freeCodeCamp
 
 ## Game Development
