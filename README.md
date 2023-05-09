@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+Here's the list of my projects categorized under my "learning sources/types":
+* Web Development
+.* 001000 - Personal
+.* 002000 - Frontend Mentor
+.* 003000 - London App Brewery
+.* 004000 - freeCodeCamp
+
+* Game Development
+.* 101000 - Unity
+.* 102000 - Unreal Engine
+
+* Mobile Development
+.* 201000 - Android Java
+.* 202000 - Android Kotlin
+
 <!--
 **kolehiyolo/kolehiyolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
