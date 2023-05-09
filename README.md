@@ -9,14 +9,6 @@ Here's the list of my projects categorized under **"learning sources/types"**:
 		* [003001 - Secret+](https://github.com/kolehiyolo/003001-secret- "Secret+")
 * 004000 - freeCodeCamp
 
-## Game Development
-	* 101000 - Unity
-	* 102000 - Unreal Engine
-
-## Mobile Development
-	* 201000 - Android Java
-	* 202000 - Android Kotlin
-
 <!--
 **kolehiyolo/kolehiyolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
